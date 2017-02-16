@@ -1,0 +1,32 @@
+body
+{
+    background-color: #002aff;
+}
+
+div
+{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    color: white;
+}
+
+#container
+{
+    float: left;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+#artist
+{
+    opacity: 0;
+    font-size: 300%;
+    text-align: center;
+    text-shadow: 0 0 50px #FFFFFF;
+}
+#songname
+{
+    opacity: 0;
+    font-size: 500%;
+    font-weight: bold;
+    text-shadow: 0 0 50px #FFFFFF;
+}
