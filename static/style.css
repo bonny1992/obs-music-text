@@ -14,19 +14,20 @@ div
     float: left;
     padding-left: 50px;
     padding-top: 50px;
+    width: 95%;
+    height: auto;
 }
 
 #artist
 {
     opacity: 0;
-    font-size: 300%;
+
     text-align: center;
     text-shadow: 0 0 50px #FFFFFF;
 }
 #songname
 {
     opacity: 0;
-    font-size: 500%;
     font-weight: bold;
     text-shadow: 0 0 50px #FFFFFF;
 }
